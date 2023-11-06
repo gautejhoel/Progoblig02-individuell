@@ -1,5 +1,3 @@
-use context essentials2021
-
 fun draw-norway() -> Image:
 red = rectangle(400, 225, "solid", "red")
 white = rectangle(400, 50, "solid", "white")
